@@ -48,7 +48,7 @@
 
     <footer class="footer">
       <div class="container">
-        <p class="text-muted">Powered by Bottle-Py, created by Benjamin Vianey</p>
+        <p class="text-muted">Powered by <a href="bottlepy.org/docs/dev/index.html"> Bottle Py</a>, created by <a href="https://www.linkedin.com/in/benjamin-vianey-691806a8">Benjamin "Zabka" Vianey</a></p>
       </div>
     </footer>
 
