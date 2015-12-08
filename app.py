@@ -30,4 +30,15 @@ def file_stac2(filepath):
 def hello():
     return template('template/index.tpl')
 
+
+@app.route('/projet1')
+def pr1():
+    return template('template/projet1.tpl')
+
+
+@app.route('/projet2')
+def pr2():
+    return template('template/projet2.tpl')
+
+
 run(app, host='localhost', port=8080, debug='true')
